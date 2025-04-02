@@ -10,6 +10,7 @@
 Hi! My name is JP, I am a _**second year**_ Computer Science major and am interested in becoming a Software Developer. I also have experience with frontend development and made my own [Portfolio Website](https://www.jpdavalos.com) last summer.
 
 > Some of my goals for this year include the following:
+
 - [x] Pass all my classes each quarter
 - [ ] Become comfortable with backend development
 - [ ] Secure an internship for the following summer
