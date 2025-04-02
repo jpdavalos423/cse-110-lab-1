@@ -9,6 +9,8 @@
 ### About Me
 Hi! My name is JP, I am a _**second year**_ Computer Science major and am interested in becoming a Software Developer. I also have experience with frontend development and made my own [Portfolio Website](https://www.jpdavalos.com) last summer.
 
+Outside of school, I enjoy listening and playing music and I have played the bass for almost 10 years. I really enjoy working out, running, hanging out with friends, or eating food.
+
 > Some of my goals for this year include the following:
 
 - [x] Pass all my classes each quarter
