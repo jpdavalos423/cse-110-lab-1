@@ -1,1 +1,2 @@
-# cse-110-lab-1
+JP's User Page
+Java is tedious but comfortable to me
