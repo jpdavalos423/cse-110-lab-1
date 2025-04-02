@@ -1,9 +1,24 @@
 # CSE 110 Lab 1
-
+[README file for this repo](README.md)
 ## Table of Contents
+- [About Me](#about-me)
 - [Screenshots from Lab](#screenshots-from-lab)
   1. [Terminal Screenshots](#terminal-screenshots)
   2. [VSCode Screenshots](#vscode-screenshots)
+
+### About Me
+Hi! My name is JP, I am a _**second year**_ Computer Science major and am interested in becoming a Software Developer. I also have experience with frontend development and made my own [Portfolio Website](https://www.jpdavalos.com) last summer.
+
+> Some of my goals for this year include the following:
+- [x] Pass all my classes each quarter
+- [ ] Become comfortable with backend development
+- [ ] Secure an internship for the following summer
+```
+while (alive):
+  eat
+  code
+  sleep
+```
 
 ### Screenshots from Lab
 
